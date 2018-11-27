@@ -1,5 +1,5 @@
 # NLP_Sentiment_Analysis_Large_Movie_Review_Project
-This project implements a sentiment classification application for a large movie review dataset from IMDB. The dataset is the Large Movie Review Dataset often referred to as the IMDB dataset. The Large Movie Review Dataset contains 25,000 highly polar moving reviews (good or bad) for training and the same amount again for testing. The problem is to determine whether a given moving review has a positive or negative sentiment.
+This is an end-to-end project which implements a sentiment classification application for a large movie review dataset from IMDB. The dataset is the Large Movie Review Dataset often referred to as the IMDB dataset. The Large Movie Review Dataset contains 25,000 highly polar moving reviews (good or bad) for training and the same amount again for testing. The problem is to determine whether a given moving review has a positive or negative sentiment.
 
 In this project, we will develop multiple potential solutions and pick the most suitable one for this problem. NLP problems can be solved by using simple "Bag of Words" method plus simple Machine Learning classifier like Naïve Bayes. However, the subtler way to solve the NLP problem would be using word embedding plus Deep Neural Networks such as LSTM (with optional CNN plus Maxpooling layer). This is because:
 
